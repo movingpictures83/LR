@@ -1,2 +1,2 @@
-Prefix plugins/CNN_MAE/example/
+Prefix plugins/LR/example/
 Plugin LR inputfile Merged-update_hourly.csv outputfile .
